@@ -135,8 +135,20 @@ Codigo
 
 ##  Ejecucion
 
-![image](https://github.com/jose-2004/menu/assets/80079088/6bb5aec8-cbc1-455a-8a11-1a9fa8c6e041)     ![image](https://github.com/jose-2004/menu/assets/80079088/583360f7-0aeb-4d31-86f0-55e657ebc37d)
-![image](https://github.com/jose-2004/menu/assets/80079088/3bc5af7f-faff-46a4-9f00-a27718307fb0)
+
+<p align="center">
+  <img src="https://github.com/jose-2004/menu/assets/80079088/6bb5aec8-cbc1-455a-8a11-1a9fa8c6e041" width="500" style="margin-right: 50px;" />
+  <img src="https://github.com/jose-2004/menu/assets/80079088/583360f7-0aeb-4d31-86f0-55e657ebc37d" width="500" style="margin-right: 50px;" />
+  
+</p>
+
+<p align="center">
+  <img src="https://github.com/jose-2004/menu/assets/80079088/3bc5af7f-faff-46a4-9f00-a27718307fb0" width="500" />
+  <img src="https://github.com/jose-2004/menu/assets/80079088/0a13b08f-979a-408a-9aef-dad1f2008213" width="500" />
+</p>
+
+
+
 
 
 
