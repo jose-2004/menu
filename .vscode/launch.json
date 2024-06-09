@@ -1,0 +1,32 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MenuBarExample",
+            "request": "launch",
+            "mainClass": "MenuBarExample",
+            "vmArgs": "--module-path \"c:\\Users\\jose1\\Desktop\\javafx-sdk-17.0.8\\lib\" --add-modules javafx.controls,javafx.fxml",
+            "projectName": "Sistema_De_Menús_25eb3b14"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceExample",
+            "request": "launch",
+            "mainClass": "InterfaceExample",
+            "vmArgs": "--module-path \"c:\\Users\\jose1\\Desktop\\javafx-sdk-17.0.8\\lib\" --add-modules javafx.controls,javafx.fxml",
+            "projectName": "interfaz_5dc1269"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceExample",
+            "request": "launch",
+            "mainClass": "InterfaceExample",
+            "vmArgs": "--module-path \"c:\\Users\\jose1\\Desktop\\javafx-sdk-17.0.8\\lib\" --add-modules javafx.controls,javafx.fxml",
+            "projectName": "interfaz_5dc1269"
+        }
+    ]
+}
